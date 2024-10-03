@@ -2,8 +2,8 @@
     width: 400px;
     height: 85px;
     position: relative;
-    margin: 220px auto;
-    animation: rotate 6s linear infinite;
+    margin: 250px auto;
+    animation: rotate 5s linear infinite;
 }
 
 .div1, .div2, .div3, .div4 {
